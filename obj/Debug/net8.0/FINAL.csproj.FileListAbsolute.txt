@@ -1,0 +1,42 @@
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/bin/Debug/net8.0/CyberBot
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/bin/Debug/net8.0/CyberBot.deps.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/bin/Debug/net8.0/CyberBot.runtimeconfig.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/bin/Debug/net8.0/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/bin/Debug/net8.0/CyberBot.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/FINAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/FINAL.AssemblyInfoInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/FINAL.AssemblyInfo.cs
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/FINAL.csproj.CoreCompileInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/refint/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/CyberBot.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/FINAL.genruntimeconfig.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/Part1/POE_PROG6221_Part1_ST10122437/FINAL/obj/Debug/net8.0/ref/CyberBot.dll
+/Users/talhahthokan/Downloads/POE Part 1/bin/Debug/net8.0/CyberBot
+/Users/talhahthokan/Downloads/POE Part 1/bin/Debug/net8.0/CyberBot.deps.json
+/Users/talhahthokan/Downloads/POE Part 1/bin/Debug/net8.0/CyberBot.runtimeconfig.json
+/Users/talhahthokan/Downloads/POE Part 1/bin/Debug/net8.0/CyberBot.dll
+/Users/talhahthokan/Downloads/POE Part 1/bin/Debug/net8.0/CyberBot.pdb
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/FINAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/FINAL.AssemblyInfoInputs.cache
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/FINAL.AssemblyInfo.cs
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/FINAL.csproj.CoreCompileInputs.cache
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/CyberBot.dll
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/refint/CyberBot.dll
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/CyberBot.pdb
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/FINAL.genruntimeconfig.cache
+/Users/talhahthokan/Downloads/POE Part 1/obj/Debug/net8.0/ref/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/bin/Debug/net8.0/CyberBot
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/bin/Debug/net8.0/CyberBot.deps.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/bin/Debug/net8.0/CyberBot.runtimeconfig.json
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/bin/Debug/net8.0/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/bin/Debug/net8.0/CyberBot.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/FINAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/FINAL.AssemblyInfoInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/FINAL.AssemblyInfo.cs
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/FINAL.csproj.CoreCompileInputs.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/refint/CyberBot.dll
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/CyberBot.pdb
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/FINAL.genruntimeconfig.cache
+/Users/talhahthokan/Desktop/BCAD/2025/PROG6221/POE/POE Part 2/obj/Debug/net8.0/ref/CyberBot.dll
